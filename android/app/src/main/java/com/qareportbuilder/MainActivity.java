@@ -1,4 +1,4 @@
-package com.qareportbuilder;
+package com.oldrocks.qareportbuilder;
 
 import com.facebook.react.ReactActivity;
 

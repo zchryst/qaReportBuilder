@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373714002948",
+    "project_id": "qa-report-builder",
+    "storage_bucket": "qa-report-builder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373714002948:android:aa67a5b283b7b8aa02c151",
+        "android_client_info": {
+          "package_name": "com.oldrocks.qareportbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373714002948-2jnh0nc84fbfk3a9skcnvgd6gf23g6pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16Q-Bqw_nWMSvbJbkMGN_qU1kindBv70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373714002948-2jnh0nc84fbfk3a9skcnvgd6gf23g6pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

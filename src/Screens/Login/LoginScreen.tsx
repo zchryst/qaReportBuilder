@@ -1,7 +1,5 @@
-import React, {useState, useEffect} from 'react';
-import {View, Text} from 'react-native';
-
-interface IProps {}
+import React from 'react';
+import { View, Text } from 'react-native';
 
 const LoginScreen = () => {
   return (

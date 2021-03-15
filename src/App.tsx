@@ -14,7 +14,7 @@ import React from 'react';
 
 import {Navigation} from './Navigation';
 
-declare const global: {HermesInternal: null | {}};
+declare const global: { HermesInternal: null | {} };
 
 const App = () => {
   return (

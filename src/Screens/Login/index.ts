@@ -1,1 +1,1 @@
-export { default as Login } from "./LoginWrapper";
+export { default as Login } from './LoginWrapper';

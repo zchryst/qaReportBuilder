@@ -12,7 +12,7 @@ import 'react-native-gesture-handler';
 import {NavigationContainer} from '@react-navigation/native';
 import React from 'react';
 
-import {Navigation} from './Navigation';
+import {Navigation} from './navigation';
 
 declare const global: {HermesInternal: null | {}};
 

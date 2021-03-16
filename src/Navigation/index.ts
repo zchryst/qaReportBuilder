@@ -1,1 +1,1 @@
-export { default as Navigation } from "./MainStack";
+export { default as Navigation } from './MainStack';

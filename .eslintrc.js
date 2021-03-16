@@ -14,6 +14,7 @@ module.exports = {
     "node_modules/",
     "metro.config.js",
     "babel.config.js",
+    "jest.config.js",
     "dist/",
     "__mocks__/**/*.ts",
     "__mocks__/**/*.js",
